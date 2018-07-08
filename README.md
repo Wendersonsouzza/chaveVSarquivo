@@ -143,7 +143,7 @@ Feito de duas maneiras de acordo a variável $par = 1 ou $par =2
 No formato
 #
 	Array(
-	'chave' => $chave[$i], 
+	'chave' => "00000210454154242417254252245254-nfe.xml", 
 	'status' => "OK"
 	);
 
